@@ -1,0 +1,7 @@
+Account/ Data removal Guide
+
+App name: Aimed Tutorial
+
+Data Kept: email address for identification, question answer history, bookmarks, user settings.
+
+Steps to delete account and data: Please email your request to rexlihku@connect.hku.hk. We will remove your account and data within 7 working days.
